@@ -1,4 +1,4 @@
-<!-- BANNER con animación typing -->
+<!-- BANNER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=200&section=header&text=Adrián%20Gallardo%20Buenrostro&fontSize=36&fontColor=e6edf3&fontAlignY=45&desc=Full%20Stack%20Developer%20·%20Backend%20Specialist%20·%20Nayarit%2C%20MX&descSize=14&descAlignY=62&descColor=8b949e&animation=twinkling" />
 
 <div align="center">
@@ -7,18 +7,24 @@
 
 <br/>
 
-<!-- STATS CARD — ancho completo -->
+<!-- STATS CARD -->
 <div align="center">
 <img src="https://pixel-profile.vercel.app/api/github-stats?username=CHIMIgb&screen_effect=true&theme=blue_chill" width="80%" alt="Pixel Stats" />
 </div>
 
+<br/>
+
 ---
 
-## Stack tecnológico
+<!-- TÍTULO: Stack tecnológico -->
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=1&pause=999999&color=E6EDF3&center=true&vCenter=true&repeat=false&width=400&lines=Stack+tecnologico" alt="Stack tecnológico" />
+</div>
 
 <br/>
 
-**Backend** &nbsp;·&nbsp; clase principal
+<!-- SUBTÍTULO: Backend -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=1&pause=999999&color=8B949E&center=false&vCenter=true&repeat=false&width=300&lines=%2F%2F+Backend+—+clase+principal" alt="Backend" />
 
 <div>
 <a href="https://www.php.net/docs.php"><img src="https://skillicons.dev/icons?i=php&theme=dark" /></a>
@@ -30,7 +36,8 @@
 
 <br/>
 
-**Frontend**
+<!-- SUBTÍTULO: Frontend -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=1&pause=999999&color=8B949E&center=false&vCenter=true&repeat=false&width=300&lines=%2F%2F+Frontend" alt="Frontend" />
 
 <div>
 <a href="https://react.dev/reference/react"><img src="https://skillicons.dev/icons?i=react&theme=dark" /></a>
@@ -45,7 +52,8 @@
 
 <br/>
 
-**Bases de datos**
+<!-- SUBTÍTULO: Bases de datos -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=1&pause=999999&color=8B949E&center=false&vCenter=true&repeat=false&width=300&lines=%2F%2F+Bases+de+datos" alt="Bases de datos" />
 
 <div>
 <a href="https://www.postgresql.org/docs/"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" /></a>
@@ -54,7 +62,8 @@
 
 <br/>
 
-**Data & Machine Learning**
+<!-- SUBTÍTULO: Data & ML -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=1&pause=999999&color=8B949E&center=false&vCenter=true&repeat=false&width=300&lines=%2F%2F+Data+%26+Machine+Learning" alt="Data y ML" />
 
 <div>
 <a href="https://docs.python.org/3/"><img src="https://skillicons.dev/icons?i=python&theme=dark" /></a>
@@ -63,7 +72,8 @@
 
 <br/>
 
-**IoT & Hardware**
+<!-- SUBTÍTULO: IoT -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=1&pause=999999&color=8B949E&center=false&vCenter=true&repeat=false&width=300&lines=%2F%2F+IoT+%26+Hardware" alt="IoT y Hardware" />
 
 <div>
 <a href="https://docs.arduino.cc/"><img src="https://skillicons.dev/icons?i=arduino&theme=dark" /></a>
@@ -72,7 +82,8 @@
 
 <br/>
 
-**Herramientas**
+<!-- SUBTÍTULO: Herramientas -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=1&pause=999999&color=8B949E&center=false&vCenter=true&repeat=false&width=300&lines=%2F%2F+Herramientas" alt="Herramientas" />
 
 <div>
 <a href="https://git-scm.com/doc"><img src="https://skillicons.dev/icons?i=git&theme=dark" /></a>
@@ -81,9 +92,14 @@
 <a href="https://learning.postman.com/docs/"><img src="https://skillicons.dev/icons?i=postman&theme=dark" /></a>
 </div>
 
+<br/>
+
 ---
 
-## Proyectos destacados
+<!-- TÍTULO: Proyectos destacados -->
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=1&pause=999999&color=E6EDF3&center=true&vCenter=true&repeat=false&width=450&lines=Proyectos+destacados" alt="Proyectos destacados" />
+</div>
 
 <br/>
 
@@ -91,76 +107,85 @@
 <tr>
 <td width="50%" valign="top">
 
-### Estación Meteorológica Inteligente
+**Estacion Meteorologica Inteligente**
+
 *IoT · Plataforma Web en Tiempo Real*
 
-Sistema que integra sensores físicos con una aplicación web para monitoreo climático en tiempo real. Desarrollé el firmware en Arduino (C++) y construí el backend que conecta el hardware con la web.
+Sistema que integra sensores fisicos con una aplicacion web para monitoreo climatico en tiempo real. Desarrolle el firmware en Arduino (C++) y construi el backend que conecta el hardware con la web.
 
 `Node.js` `Express` `Socket.io` `PostgreSQL` `Chart.js` `Arduino`
 
-- Transmisión de datos vía WebSocket en tiempo real
-- Temperatura, humedad, presión y viento
-- Carcasa electrónica impresa en 3D
+- Transmision de datos via WebSocket en tiempo real
+- Temperatura, humedad, presion y viento
+- Carcasa electronica impresa en 3D
 
 </td>
 <td width="50%" valign="top">
 
-### SIPRODEM
-*Machine Learning · Salud Pública*
+**SIPRODEM**
+
+*Machine Learning · Salud Publica*
 *ExpoCiencias Nacional 2025 — MILSET AMLAT*
 
-Plataforma de ML para predecir el desabasto de medicamentos en hospitales públicos mexicanos con 4 semanas de anticipación.
+Plataforma de ML para predecir el desabasto de medicamentos en hospitales publicos mexicanos con 4 semanas de anticipacion.
 
 `Python` `Prophet` `Random Forest` `ETL`
 
 - Prophet `R²=0.94` · Random Forest `R²=0.99`
-- Dashboard con alertas automáticas en tiempo real
-- Datos históricos 2020–2024 · IMSS · IMSS-BIENESTAR · INER
+- Dashboard con alertas automaticas en tiempo real
+- Datos historicos 2020–2024 · IMSS · IMSS-BIENESTAR · INER
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### Sistema de Comisiones
-*Industrial Las Norteñas S.A. de C.V. · Estadía 2024*
+**Sistema de Comisiones**
 
-Sistema transaccional para el cálculo automático de comisiones y pagos semanales a la fuerza de ventas.
+*Industrial Las Nortenas S.A. de C.V. · Estadia 2024*
+
+Sistema transaccional para el calculo automatico de comisiones y pagos semanales a la fuerza de ventas.
 
 `PHP` `Laravel` `MySQL`
 
-- Eliminó retrasos de una semana en el proceso
-- Flujos de aprobación y reportes por vendedor
+- Elimino retrasos de una semana en el proceso
+- Flujos de aprobacion y reportes por vendedor
 
 </td>
 <td width="50%" valign="top">
 
-### Woman Secure — Ecommerce
-*Proyecto Escolar · Líder de Equipo · 2023*
+**Woman Secure — Ecommerce**
 
-Backend de ecommerce con integración de pasarelas de pago reales y autenticación segura.
+*Proyecto Escolar · Lider de Equipo · 2023*
+
+Backend de ecommerce con integracion de pasarelas de pago reales y autenticacion segura.
 
 `PHP` `PayPal API` `JWT`
 
-- Integración PayPal y tarjeta crédito/débito
-- Auth JWT, recuperación de contraseña y notificaciones por email
+- Integracion PayPal y tarjeta credito/debito
+- Auth JWT, recuperacion de contrasena y notificaciones por email
 
 </td>
 </tr>
 </table>
 
+<br/>
+
 ---
 
-## Formación
+<!-- TÍTULO: Formación -->
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=1&pause=999999&color=E6EDF3&center=true&vCenter=true&repeat=false&width=300&lines=Formacion" alt="Formación" />
+</div>
 
 <br/>
 
-**Universidad Tecnológica de la Costa** &nbsp;·&nbsp; Santiago Ixcuintla, Nayarit
+**Universidad Tecnologica de la Costa** &nbsp;·&nbsp; Santiago Ixcuintla, Nayarit
 
 | Programa | Estado |
 |---|---|
-| TSU — Tecnologías de la Información · Desarrollo de Software Multiplataforma | Titulado |
-| Ingeniería en Desarrollo y Gestión de Software | En curso · desde Agosto 2024 |
+| TSU — Tecnologias de la Informacion · Desarrollo de Software Multiplataforma | Titulado |
+| Ingenieria en Desarrollo y Gestion de Software | En curso · desde Agosto 2024 |
 
 <br/>
 
