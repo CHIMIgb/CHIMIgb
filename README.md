@@ -1,59 +1,31 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=140&section=header&text=Adrián%20Gallardo%20Buenrostro&fontSize=34&fontColor=e6edf3&fontAlignY=55&desc=Full%20Stack%20Developer%20·%20Backend%20Specialist%20·%20Nayarit%2C%20MX&descSize=13&descAlignY=78&descColor=8b949e" />
+<!-- BANNER con animación typing -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=200&section=header&text=Adrián%20Gallardo%20Buenrostro&fontSize=36&fontColor=e6edf3&fontAlignY=45&desc=Full%20Stack%20Developer%20·%20Backend%20Specialist%20·%20Nayarit%2C%20MX&descSize=14&descAlignY=62&descColor=8b949e&animation=twinkling" />
 
-<br/>
-
-<table width="100%">
-<tr>
-<td width="58%" valign="top">
-
-## Hola, soy Adrián 👋
-
-Desarrollador con foco en **backend**, apasionado por construir sistemas robustos, escalables y mantenibles. Disfruto los problemas técnicos complejos y me centro en escribir código limpio y bien estructurado.
-
-Actualmente profundizando en **Laravel** y arquitecturas **serverless con AWS**, mientras curso la Ingeniería en la Universidad Tecnológica de la Costa.
-
-- 🔥 **PHP** — lenguaje principal, 4 años de experiencia
-- 🌱 Explorando **AWS serverless** y profundizando en **Laravel**
-- 🤝 Experiencia en equipos colaborativos y proyectos reales en producción
-- 🏆 **ExpoCiencias Nacional 2025** — MILSET AMLAT, Tamaulipas
-- 📍 Santiago Ixcuintla, Nayarit, México
-
-<br/>
-
-[![Gmail](https://img.shields.io/badge/Gmail-adriangallardobuenrostro%40gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=ea4335&labelColor=161b22&color=161b22)](mailto:adriangallardobuenrostro@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-CHIMIgb-0d1117?style=flat-square&logo=github&logoColor=e6edf3&labelColor=161b22&color=161b22)](https://github.com/CHIMIgb)
-
-</td>
-<td width="42%" valign="top" align="center">
-
-<!-- PIXEL PROFILE STATS CARD — pixel art estilo consola retro -->
-<img src="https://pixel-profile.vercel.app/api/github-stats?username=CHIMIgb&screen_effect=true&theme=blue_chill" width="100%" alt="Pixel Stats" />
-
-</td>
-</tr>
-</table>
-
----
-
-## 🏆 Trophies
-
-<!-- github-profile-trophy: tema "alduin" — paleta oscura estilo RPG clásico -->
 <div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=8B949E&center=true&vCenter=true&width=600&lines=Desarrollador+Full+Stack+Junior;Backend+Enthusiast+%7C+PHP+%C2%B7+Laravel+%C2%B7+Node.js;Building+robust+%26+scalable+systems;Open+to+remote+opportunities" alt="Typing SVG" />
+</div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=CHIMIgb&theme=alduin&column=7&margin-w=8&margin-h=8&no-bg=false&rank=SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
+<br/>
 
+<!-- STATS CARD — ancho completo -->
+<div align="center">
+<img src="https://pixel-profile.vercel.app/api/github-stats?username=CHIMIgb&screen_effect=true&theme=blue_chill" width="80%" alt="Pixel Stats" />
 </div>
 
 ---
 
-## 🛠️ Stack tecnológico
+## Stack tecnológico
 
 <br/>
 
 **Backend** &nbsp;·&nbsp; clase principal
 
 <div>
-<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,nestjs,express&theme=dark" />
+<a href="https://www.php.net/docs.php"><img src="https://skillicons.dev/icons?i=php&theme=dark" /></a>
+<a href="https://laravel.com/docs"><img src="https://skillicons.dev/icons?i=laravel&theme=dark" /></a>
+<a href="https://nodejs.org/en/docs"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" /></a>
+<a href="https://nestjs.com/"><img src="https://skillicons.dev/icons?i=nestjs&theme=dark" /></a>
+<a href="https://expressjs.com/en/5x/api.html"><img src="https://skillicons.dev/icons?i=express&theme=dark" /></a>
 </div>
 
 <br/>
@@ -61,7 +33,14 @@ Actualmente profundizando en **Laravel** y arquitecturas **serverless con AWS**,
 **Frontend**
 
 <div>
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css&theme=dark" />
+<a href="https://react.dev/reference/react"><img src="https://skillicons.dev/icons?i=react&theme=dark" /></a>
+<a href="https://nextjs.org/docs"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" /></a>
+<a href="https://angular.dev/overview"><img src="https://skillicons.dev/icons?i=angular&theme=dark" /></a>
+<a href="https://vuejs.org/guide/introduction.html"><img src="https://skillicons.dev/icons?i=vue&theme=dark" /></a>
+<a href="https://tailwindcss.com/docs"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=dark" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html&theme=dark" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css&theme=dark" /></a>
 </div>
 
 <br/>
@@ -69,7 +48,8 @@ Actualmente profundizando en **Laravel** y arquitecturas **serverless con AWS**,
 **Bases de datos**
 
 <div>
-<img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" />
+<a href="https://www.postgresql.org/docs/"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" /></a>
+<a href="https://dev.mysql.com/doc/"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" /></a>
 </div>
 
 <br/>
@@ -77,7 +57,8 @@ Actualmente profundizando en **Laravel** y arquitecturas **serverless con AWS**,
 **Data & Machine Learning**
 
 <div>
-<img src="https://skillicons.dev/icons?i=python,sklearn&theme=dark" />
+<a href="https://docs.python.org/3/"><img src="https://skillicons.dev/icons?i=python&theme=dark" /></a>
+<a href="https://scikit-learn.org/stable/documentation.html"><img src="https://skillicons.dev/icons?i=sklearn&theme=dark" /></a>
 </div>
 
 <br/>
@@ -85,7 +66,8 @@ Actualmente profundizando en **Laravel** y arquitecturas **serverless con AWS**,
 **IoT & Hardware**
 
 <div>
-<img src="https://skillicons.dev/icons?i=arduino,cpp&theme=dark" />
+<a href="https://docs.arduino.cc/"><img src="https://skillicons.dev/icons?i=arduino&theme=dark" /></a>
+<a href="https://isocpp.org/std/the-standard"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" /></a>
 </div>
 
 <br/>
@@ -93,12 +75,15 @@ Actualmente profundizando en **Laravel** y arquitecturas **serverless con AWS**,
 **Herramientas**
 
 <div>
-<img src="https://skillicons.dev/icons?i=git,github&theme=dark" />
+<a href="https://git-scm.com/doc"><img src="https://skillicons.dev/icons?i=git&theme=dark" /></a>
+<a href="https://docs.github.com/"><img src="https://skillicons.dev/icons?i=github&theme=dark" /></a>
+<a href="https://docs.docker.com/"><img src="https://skillicons.dev/icons?i=docker&theme=dark" /></a>
+<a href="https://learning.postman.com/docs/"><img src="https://skillicons.dev/icons?i=postman&theme=dark" /></a>
 </div>
 
 ---
 
-## 🚀 Proyectos destacados
+## Proyectos destacados
 
 <br/>
 
@@ -106,7 +91,7 @@ Actualmente profundizando en **Laravel** y arquitecturas **serverless con AWS**,
 <tr>
 <td width="50%" valign="top">
 
-### 🌦️ Estación Meteorológica Inteligente
+### Estación Meteorológica Inteligente
 *IoT · Plataforma Web en Tiempo Real*
 
 Sistema que integra sensores físicos con una aplicación web para monitoreo climático en tiempo real. Desarrollé el firmware en Arduino (C++) y construí el backend que conecta el hardware con la web.
@@ -120,7 +105,7 @@ Sistema que integra sensores físicos con una aplicación web para monitoreo cli
 </td>
 <td width="50%" valign="top">
 
-### 💊 SIPRODEM &nbsp; 🏆
+### SIPRODEM
 *Machine Learning · Salud Pública*
 *ExpoCiencias Nacional 2025 — MILSET AMLAT*
 
@@ -137,7 +122,7 @@ Plataforma de ML para predecir el desabasto de medicamentos en hospitales públi
 <tr>
 <td width="50%" valign="top">
 
-### 💼 Sistema de Comisiones
+### Sistema de Comisiones
 *Industrial Las Norteñas S.A. de C.V. · Estadía 2024*
 
 Sistema transaccional para el cálculo automático de comisiones y pagos semanales a la fuerza de ventas.
@@ -150,7 +135,7 @@ Sistema transaccional para el cálculo automático de comisiones y pagos semanal
 </td>
 <td width="50%" valign="top">
 
-### 🛡️ Woman Secure — Ecommerce
+### Woman Secure — Ecommerce
 *Proyecto Escolar · Líder de Equipo · 2023*
 
 Backend de ecommerce con integración de pasarelas de pago reales y autenticación segura.
@@ -166,55 +151,17 @@ Backend de ecommerce con integración de pasarelas de pago reales y autenticaci�
 
 ---
 
-## 📊 Estadísticas
+## Formación
 
 <br/>
 
-<div align="center">
-
-<!-- PIXEL PROFILE — stats card retro pixel art, tema rainbow para dark mode -->
-<img src="https://pixel-profile.vercel.app/api/github-stats?username=CHIMIgb&screen_effect=false&theme=sandy_beach&dithering=true" width="48%" alt="GitHub Stats Pixel" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHIMIgb&layout=compact&hide_border=true&theme=github_dark&title_color=8b949e&text_color=e6edf3&bg_color=0d1117&locale=es" width="46%" alt="Top Languages" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=CHIMIgb&theme=github-dark-blue&hide_border=true&background=0d1117&ring=6e7681&fire=e6edf3&currStreakLabel=8b949e&sideLabels=8b949e&dates=6e7681&stroke=21262d&locale=es" width="60%" />
-
-</div>
-
----
-
-## 💼 Experiencia
-
-<br/>
-
-| Empresa | Rol | Período |
-|---|---|---|
-| CROV — Sistema PRASE | Desarrollador Full Stack | Mayo – Ago 2025 |
-| Instituto Estatal de Educación Normal | Desarrollador Backend | Oct 2024 – Mar 2025 |
-| Industrial Las Norteñas S.A. de C.V. | Full Stack (Estadía) | Abr – Ago 2024 |
-| Woman Secure | Backend & Líder de Equipo | Ene – Abr 2023 |
-
----
-
-## 🎓 Formación
-
-<br/>
-
-🏛️ &nbsp;**Universidad Tecnológica de la Costa** &nbsp;·&nbsp; Santiago Ixcuintla, Nayarit
+**Universidad Tecnológica de la Costa** &nbsp;·&nbsp; Santiago Ixcuintla, Nayarit
 
 | Programa | Estado |
 |---|---|
-| TSU — Tecnologías de la Información · Desarrollo de Software Multiplataforma | ✅ Titulado |
-| Ingeniería en Desarrollo y Gestión de Software | 🔄 En curso · desde Agosto 2024 |
+| TSU — Tecnologías de la Información · Desarrollo de Software Multiplataforma | Titulado |
+| Ingeniería en Desarrollo y Gestión de Software | En curso · desde Agosto 2024 |
 
 <br/>
-
-<div align="center">
-
-![Profile views](https://komarev.com/ghpvc/?username=CHIMIgb&color=8b949e&style=flat-square&label=profile+views)
-
-</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=80&section=footer" />
