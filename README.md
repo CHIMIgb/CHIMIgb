@@ -1,30 +1,33 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f23,50:1a1a3e,100:0f0f23&height=120&section=header&text=Adrián%20Gallardo%20Buenrostro&fontSize=32&fontColor=e8e8f0&fontAlignY=65&desc=Full%20Stack%20Developer%20·%20Backend%20Specialist&descSize=14&descAlignY=85&descColor=8888aa" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=140&section=header&text=Adrián%20Gallardo%20Buenrostro&fontSize=34&fontColor=e6edf3&fontAlignY=55&desc=Full%20Stack%20Developer%20·%20Backend%20Specialist%20·%20Nayarit%2C%20MX&descSize=13&descAlignY=78&descColor=8b949e" />
 
 <br/>
 
 <table width="100%">
 <tr>
-<td width="60%" valign="top">
+<td width="58%" valign="top">
 
-## Sobre mí
+## Hola, soy Adrián 👋
 
 Desarrollador con foco en **backend**, apasionado por construir sistemas robustos, escalables y mantenibles. Disfruto los problemas técnicos complejos y me centro en escribir código limpio y bien estructurado.
 
-Actualmente profundizando en **Laravel** y arquitecturas **serverless con AWS**, mientras curso la ingeniería en la Universidad Tecnológica de la Costa.
+Actualmente profundizando en **Laravel** y arquitecturas **serverless con AWS**, mientras curso la Ingeniería en la Universidad Tecnológica de la Costa.
 
-> *"Me gusta el desafío que presentan los problemas, sean fáciles o complejos."*
-
-</td>
-<td width="40%" valign="top" align="right">
-
-**`PHP`** — 4 años de experiencia continua  
-**`Backend`** — enfoque principal  
-**`Remoto`** — disponible  
-**`Nayarit, MX`** — Santiago Ixcuintla  
+- 🔥 **PHP** — lenguaje principal, 4 años de experiencia
+- 🌱 Explorando **AWS serverless** y profundizando en **Laravel**
+- 🤝 Experiencia en equipos colaborativos y proyectos reales en producción
+- 🏆 **ExpoCiencias Nacional 2025** — MILSET AMLAT, Tamaulipas
+- 📍 Santiago Ixcuintla, Nayarit, México
 
 <br/>
 
-[![Gmail](https://img.shields.io/badge/Contacto-adriangallardobuenrostro%40gmail.com-0f0f23?style=flat-square&logo=gmail&logoColor=c8a96e&labelColor=1a1a3e&color=1a1a3e)](mailto:adriangallardobuenrostro@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-adriangallardobuenrostro%40gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=ea4335&labelColor=161b22&color=161b22)](mailto:adriangallardobuenrostro@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-CHIMIgb-0d1117?style=flat-square&logo=github&logoColor=e6edf3&labelColor=161b22&color=161b22)](https://github.com/CHIMIgb)
+
+</td>
+<td width="42%" valign="top" align="center">
+
+<!-- PIXEL PROFILE STATS CARD — pixel art estilo consola retro -->
+<img src="https://pixel-profile.vercel.app/api/github-stats?username=CHIMIgb&screen_effect=true&theme=blue_chill" width="100%" alt="Pixel Stats" />
 
 </td>
 </tr>
@@ -32,11 +35,22 @@ Actualmente profundizando en **Laravel** y arquitecturas **serverless con AWS**,
 
 ---
 
-## Stack tecnológico
+## 🏆 Trophies
+
+<!-- github-profile-trophy: tema "alduin" — paleta oscura estilo RPG clásico -->
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=CHIMIgb&theme=alduin&column=7&margin-w=8&margin-h=8&no-bg=false&rank=SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🛠️ Stack tecnológico
 
 <br/>
 
-**Backend** &nbsp;·&nbsp; *clase principal*
+**Backend** &nbsp;·&nbsp; clase principal
 
 <div>
 <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,nestjs,express&theme=dark" />
@@ -84,7 +98,7 @@ Actualmente profundizando en **Laravel** y arquitecturas **serverless con AWS**,
 
 ---
 
-## Proyectos destacados
+## 🚀 Proyectos destacados
 
 <br/>
 
@@ -95,28 +109,28 @@ Actualmente profundizando en **Laravel** y arquitecturas **serverless con AWS**,
 ### 🌦️ Estación Meteorológica Inteligente
 *IoT · Plataforma Web en Tiempo Real*
 
-Sistema que integra sensores físicos con una aplicación web para monitoreo climático en tiempo real. Desarrollé el firmware en Arduino (C++) y construí el backend que conecta el hardware con la interfaz web.
+Sistema que integra sensores físicos con una aplicación web para monitoreo climático en tiempo real. Desarrollé el firmware en Arduino (C++) y construí el backend que conecta el hardware con la web.
 
-**Stack** — Node.js · Express · Socket.io · PostgreSQL · Chart.js · Arduino
+`Node.js` `Express` `Socket.io` `PostgreSQL` `Chart.js` `Arduino`
 
 - Transmisión de datos vía WebSocket en tiempo real
-- Temperatura, humedad, presión y velocidad de viento
+- Temperatura, humedad, presión y viento
 - Carcasa electrónica impresa en 3D
 
 </td>
 <td width="50%" valign="top">
 
-### 💊 SIPRODEM
-*Machine Learning · Salud Pública · 🏆 ExpoCiencias Nacional 2025*
+### 💊 SIPRODEM &nbsp; 🏆
+*Machine Learning · Salud Pública*
+*ExpoCiencias Nacional 2025 — MILSET AMLAT*
 
 Plataforma de ML para predecir el desabasto de medicamentos en hospitales públicos mexicanos con 4 semanas de anticipación.
 
-**Stack** — Python · Prophet · Random Forest · ETL gubernamental
+`Python` `Prophet` `Random Forest` `ETL`
 
-- Prophet `R²= 0.94` · Random Forest `R²= 0.99`
+- Prophet `R²=0.94` · Random Forest `R²=0.99`
 - Dashboard con alertas automáticas en tiempo real
-- Datos históricos 2020–2024 (IMSS · IMSS-BIENESTAR · INER)
-- ODS: Salud `[3]` · Innovación `[9]` · Consumo Responsable `[12]`
+- Datos históricos 2020–2024 · IMSS · IMSS-BIENESTAR · INER
 
 </td>
 </tr>
@@ -128,11 +142,10 @@ Plataforma de ML para predecir el desabasto de medicamentos en hospitales públi
 
 Sistema transaccional para el cálculo automático de comisiones y pagos semanales a la fuerza de ventas.
 
-**Stack** — PHP · Laravel · MySQL
+`PHP` `Laravel` `MySQL`
 
 - Eliminó retrasos de una semana en el proceso
-- Flujos de aprobación por supervisores
-- Reportes personalizados por vendedor
+- Flujos de aprobación y reportes por vendedor
 
 </td>
 <td width="50%" valign="top">
@@ -140,13 +153,12 @@ Sistema transaccional para el cálculo automático de comisiones y pagos semanal
 ### 🛡️ Woman Secure — Ecommerce
 *Proyecto Escolar · Líder de Equipo · 2023*
 
-Backend de ecommerce especializado en productos de defensa personal con integración de pasarelas de pago reales.
+Backend de ecommerce con integración de pasarelas de pago reales y autenticación segura.
 
-**Stack** — PHP · PayPal API · JWT
+`PHP` `PayPal API` `JWT`
 
 - Integración PayPal y tarjeta crédito/débito
-- Autenticación JWT y recuperación de contraseña
-- Notificaciones automáticas por correo
+- Auth JWT, recuperación de contraseña y notificaciones por email
 
 </td>
 </tr>
@@ -154,7 +166,26 @@ Backend de ecommerce especializado en productos de defensa personal con integrac
 
 ---
 
-## Experiencia
+## 📊 Estadísticas
+
+<br/>
+
+<div align="center">
+
+<!-- PIXEL PROFILE — stats card retro pixel art, tema rainbow para dark mode -->
+<img src="https://pixel-profile.vercel.app/api/github-stats?username=CHIMIgb&screen_effect=false&theme=sandy_beach&dithering=true" width="48%" alt="GitHub Stats Pixel" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHIMIgb&layout=compact&hide_border=true&theme=github_dark&title_color=8b949e&text_color=e6edf3&bg_color=0d1117&locale=es" width="46%" alt="Top Languages" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=CHIMIgb&theme=github-dark-blue&hide_border=true&background=0d1117&ring=6e7681&fire=e6edf3&currStreakLabel=8b949e&sideLabels=8b949e&dates=6e7681&stroke=21262d&locale=es" width="60%" />
+
+</div>
+
+---
+
+## 💼 Experiencia
 
 <br/>
 
@@ -167,23 +198,7 @@ Backend de ecommerce especializado en productos de defensa personal con integrac
 
 ---
 
-## Estadísticas GitHub
-
-<br/>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=CHIMIgb&show_icons=true&hide_border=true&theme=transparent&title_color=c8a96e&icon_color=8888aa&text_color=e8e8f0&locale=es" height="160" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHIMIgb&layout=compact&hide_border=true&theme=transparent&title_color=c8a96e&text_color=e8e8f0&locale=es" height="160" />
-</div>
-
-<div align="center">
-<img src="https://streak-stats.demolab.com/?user=CHIMIgb&hide_border=true&background=00000000&ring=c8a96e&fire=c8a96e&currStreakLabel=c8a96e&sideLabels=8888aa&dates=8888aa&stroke=1a1a3e&locale=es" />
-</div>
-
----
-
-## Formación
+## 🎓 Formación
 
 <br/>
 
@@ -191,9 +206,15 @@ Backend de ecommerce especializado en productos de defensa personal con integrac
 
 | Programa | Estado |
 |---|---|
-| TSU en Tecnologías de la Información — Desarrollo de Software Multiplataforma | ✅ Titulado |
-| Ingeniería en Desarrollo y Gestión de Software | 🔄 En curso — desde Agosto 2024 |
+| TSU — Tecnologías de la Información · Desarrollo de Software Multiplataforma | ✅ Titulado |
+| Ingeniería en Desarrollo y Gestión de Software | 🔄 En curso · desde Agosto 2024 |
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f23,50:1a1a3e,100:0f0f23&height=80&section=footer" />
+<div align="center">
+
+![Profile views](https://komarev.com/ghpvc/?username=CHIMIgb&color=8b949e&style=flat-square&label=profile+views)
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=80&section=footer" />
