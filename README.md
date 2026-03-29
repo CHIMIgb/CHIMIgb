@@ -1,245 +1,277 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   ADRIÁN GALLARDO BUENROSTRO                  -->
-<!--                     README — PIXEL EDITION                    -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-```
-██████╗ ██████╗    ██████╗ ██████╗  ██████╗ ███████╗██╗██╗     ███████╗
-██╔══██╗██╔══██╗   ██╔══██╗██╔══██╗██╔═══██╗██╔════╝██║██║     ██╔════╝
-██║  ██║██████╔╝   ██████╔╝██████╔╝██║   ██║█████╗  ██║██║     █████╗  
-██║  ██║██╔══██╗   ██╔═══╝ ██╔══██╗██║   ██║██╔══╝  ██║██║     ██╔══╝  
-██████╔╝██║  ██║██╗██║     ██║  ██║╚██████╔╝██║     ██║███████╗███████╗
-╚═════╝ ╚═╝  ╚═╝╚═╝╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚══════╝╚══════╝
-```
+<!-- ░░░░░░░░░░░░  TITLE SCREEN  ░░░░░░░░░░░░ -->
+
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=ADRIÁN+GALLARDO+BUENROSTRO;FULL+STACK+DEVELOPER;BACKEND+SPECIALIST;PRESS+START+TO+COLLABORATE!" alt="Typing SVG" />
+
+<br/>
 
 ```
-▄▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▄
-█  ADRIÁN GALLARDO BUENROSTRO                                              █
-█  > Full Stack Developer  [ BACKEND MODE: ACTIVE ]                        █
-█  > Loc: Santiago Ixcuintla, Nayarit, MX                                  █
-█  > Status: AVAILABLE FOR REMOTE                                          █
-█  > PHP EXP: ████████████████████ 4 AÑOS                                  █
-▀▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▀
+  ░▄▀░░░░░▀▄░  ▒▓███▓▒  ░░▄█▄░░  ░░░░▒▒▒░░░░
+  ░█▓█░░░█▓█░  ▓█▀▀▀█▓  ░█▓▓█░  ░░▒▓████▓▒░░
+  ░▀█▓▄▄▓█▀░  ▓█░░░█▓  ░█▓▓█░  ░▒▓██░░░██▓▒░
+  ░░░▀██▀░░░  ▒▓███▓▒  ░▀███▀░  ░░░░▒▒▒░░░░░
+  DESARROLLADOR  BACKEND  NAYARIT MX  ZELDA FAN
 ```
 
-[![Gmail](https://img.shields.io/badge/CONTACT-adriangallardobuenrostro%40gmail.com-555?style=flat-square&labelColor=222&color=555&logo=gmail)](mailto:adriangallardobuenrostro@gmail.com)
+<br/>
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║  ♥ ♥ ♥ ♥ ♥   PLAYER ONE   ♥ ♥ ♥ ♥ ♥       LVL: 04        ║
+╠══════════════════════════════════════════════════════════════╣
+║  NAME  : ADRIÁN GALLARDO BUENROSTRO                         ║
+║  CLASS : FULL STACK DEV  [ BACKEND MAGE ]                   ║
+║  GUILD : UNIVERSIDAD TECNOLÓGICA DE LA COSTA                 ║
+║  LOC   : SANTIAGO IXCUINTLA, NAYARIT, MX                    ║
+║  MODE  : ██ REMOTE ██ AVAILABLE                             ║
+║                                                              ║
+║  PHP      ████████████████████ 4 AÑOS   ★★★★★              ║
+║  BACKEND  ████████████████░░░░          ★★★★☆              ║
+║  FRONTEND ████████████░░░░░░░░          ★★★☆☆              ║
+║  ML / AI  ████████░░░░░░░░░░░░          ★★☆☆☆              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+[![](https://img.shields.io/badge/📧_adriangallardobuenrostro@gmail.com-FFD700?style=for-the-badge&labelColor=1a1a2e&color=FFD700&logoColor=black)](mailto:adriangallardobuenrostro@gmail.com)
 
 </div>
 
 ---
 
-## `[ PLAYER.INFO ]`
+## `[ ★ SOBRE MÍ ★ ]`
 
 ```
 ┌─────────────────────────────────────────────────────────────────────┐
-│  CLASS    : Full Stack Developer  (Backend Specialist)              │
-│  LEVEL    : Junior  ▓▓▓▓▓▓▓▓░░░░  (Subiendo de nivel...)           │
-│  GUILD    : Universidad Tecnológica de la Costa                     │
-│  QUEST    : Ing. Desarrollo y Gestión de Software  [EN CURSO]       │
-│  LOGRO    : TSU — Desarrollo de Software Multiplataforma  ✔ OBTENIDO│
-│  EVENTO   : ExpoCiencias Nacional 2025 Tamaulipas  🏆  COMPLETADO   │
+│  Desarrollador con enfoque en BACKEND apasionado por construir      │
+│  sistemas robustos, resolver problemas complejos e implementar      │
+│  soluciones desde cero. Código limpio, seguro y escalable.         │
+│                                                                     │
+│  ► Profundizando en Laravel + arquitecturas serverless con AWS     │
+│  ► Experiencia en equipos colaborativos y producción real          │
+│  ► ExpoCiencias Nacional 2025 Tamaulipas · MILSET AMLAT  🏆       │
 └─────────────────────────────────────────────────────────────────────┘
 ```
 
-> *"Me gusta el desafío que presentan los problemas, sean fáciles o complejos."*
-
-Desarrollador con enfoque en **backend**, apasionado por construir sistemas robustos,
-resolver problemas complejos e implementar soluciones desde cero.
-Escribo código limpio, seguro y escalable. Aprendo constantemente nuevas tecnologías.
-
-- Profundizando en **Laravel** y explorando **arquitecturas serverless con AWS**
-- Con experiencia en equipos colaborativos y proyectos reales en producción
-
 ---
 
-## `[ TECH.STACK ]`
+## `[ ★ TECH STACK ★ ]`
 
-### `>> BACKEND  (clase principal)`
+### `>> BACKEND`  ← clase principal
 
 <div align="center">
 
-[![PHP](https://skillicons.dev/icons?i=php)](https://www.php.net)
-[![Laravel](https://skillicons.dev/icons?i=laravel)](https://laravel.com)
-[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org)
-[![NestJS](https://skillicons.dev/icons?i=nestjs)](https://nestjs.com)
-[![Express](https://skillicons.dev/icons?i=express)](https://expressjs.com)
+[![PHP](https://skillicons.dev/icons?i=php&theme=dark)](https://www.php.net)
+[![Laravel](https://skillicons.dev/icons?i=laravel&theme=dark)](https://laravel.com)
+[![Node.js](https://skillicons.dev/icons?i=nodejs&theme=dark)](https://nodejs.org)
+[![NestJS](https://skillicons.dev/icons?i=nestjs&theme=dark)](https://nestjs.com)
+[![Express](https://skillicons.dev/icons?i=express&theme=dark)](https://expressjs.com)
 
 </div>
+
+```
+  PHP ★★★★★   LARAVEL ★★★★☆   NODE ★★★☆☆   NESTJS ★★★☆☆   EXPRESS ★★★☆☆
+```
 
 ### `>> FRONTEND`
 
 <div align="center">
 
-[![React](https://skillicons.dev/icons?i=react)](https://react.dev)
-[![Next.js](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org)
-[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![HTML5](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![React](https://skillicons.dev/icons?i=react&theme=dark)](https://react.dev)
+[![Next.js](https://skillicons.dev/icons?i=nextjs&theme=dark)](https://nextjs.org)
+[![JavaScript](https://skillicons.dev/icons?i=js&theme=dark)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![HTML5](https://skillicons.dev/icons?i=html&theme=dark)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://skillicons.dev/icons?i=css&theme=dark)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 </div>
+
+```
+  REACT ★★★☆☆   NEXT ★★★☆☆   JS ★★★★☆   HTML ★★★★★   CSS ★★★★☆
+```
 
 ### `>> BASES DE DATOS`
 
 <div align="center">
 
-[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org)
-[![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com)
+[![PostgreSQL](https://skillicons.dev/icons?i=postgres&theme=dark)](https://www.postgresql.org)
+[![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark)](https://www.mysql.com)
 
 </div>
+
+```
+  POSTGRESQL ★★★★☆   MYSQL ★★★★★
+```
 
 ### `>> DATA & ML`
 
 <div align="center">
 
-[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org)
-[![scikit-learn](https://skillicons.dev/icons?i=sklearn)](https://scikit-learn.org)
+[![Python](https://skillicons.dev/icons?i=python&theme=dark)](https://www.python.org)
+[![scikit-learn](https://skillicons.dev/icons?i=sklearn&theme=dark)](https://scikit-learn.org)
 
 </div>
+
+```
+  PYTHON ★★★☆☆   SCIKIT-LEARN ★★★☆☆
+```
 
 ### `>> IOT & HARDWARE`
 
 <div align="center">
 
-[![Arduino](https://skillicons.dev/icons?i=arduino)](https://www.arduino.cc)
-[![C++](https://skillicons.dev/icons?i=cpp)](https://isocpp.org)
+[![Arduino](https://skillicons.dev/icons?i=arduino&theme=dark)](https://www.arduino.cc)
+[![C++](https://skillicons.dev/icons?i=cpp&theme=dark)](https://isocpp.org)
 
 </div>
+
+```
+  ARDUINO ★★★★☆   C++ ★★★☆☆
+```
 
 ### `>> HERRAMIENTAS`
 
 <div align="center">
 
-[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com)
+[![Git](https://skillicons.dev/icons?i=git&theme=dark)](https://git-scm.com)
+[![GitHub](https://skillicons.dev/icons?i=github&theme=dark)](https://github.com)
 
 </div>
 
 ---
 
-## `[ QUEST.LOG ]`
+## `[ ★ QUEST LOG ★ ]`
 
 ```
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-  MISIONES COMPLETADAS
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+╔═══════════════════════════════════════════════════════════════════╗
+║  ▶  SELECCIONA MISIÓN                               EXP TOTAL    ║
+╠═══════════════════════════════════════════════════════════════════╣
+║  [A] 🌦️  Estación Meteorológica  ··  COMPLETADA ✔    +1500 XP   ║
+║  [B] 💊  SIPRODEM                ··  COMPLETADA ✔    +5000 XP   ║
+║  [C] 💼  Sistema Comisiones      ··  COMPLETADA ✔    +2000 XP   ║
+║  [D] 🛡️  Woman Secure Ecommerce  ··  COMPLETADA ✔    +1800 XP   ║
+╚═══════════════════════════════════════════════════════════════════╝
 ```
 
-### `[QUEST A]` 🌦️ Estación Meteorológica Inteligente
-> *IoT + Plataforma Web en Tiempo Real*
+---
+
+### `[QUEST A]`  🌦️ Estación Meteorológica Inteligente
 
 ```
-DIFICULTAD : ★★★★☆
-STACK      : Node.js · Express · Socket.io · PostgreSQL · Chart.js · Arduino
-ESTADO     : ██████████  COMPLETADO
+  ┌──────────────────────────────────────────────────┐
+  │  TIPO   : IoT + Plataforma Web Tiempo Real       │
+  │  NIVEL  : ★★★★☆                                 │
+  │  STACK  : Node · Express · Socket.io · Postgres  │
+  │           Chart.js · Arduino · C++               │
+  │  ESTADO : ████████████████████ 100% ✔            │
+  │  REWARD : +1500 XP  +  Impresión 3D Desbloqueada │
+  └──────────────────────────────────────────────────┘
 ```
 
-Sistema completo que integra **sensores físicos con una aplicación web** para monitoreo climático.
-
-- Firmware Arduino en **C++** + backend que conecta hardware con la web
-- Temperatura, humedad, presión y viento transmitidos via **WebSocket** en tiempo real
+- Firmware Arduino (C++) + backend que conecta hardware con la web
+- Temperatura, humedad, presión y viento vía **WebSocket** en tiempo real
 - Carcasa impresa en **3D** para los componentes electrónicos
 
 ---
 
-### `[QUEST B]` 💊 SIPRODEM — Sistema de Pronóstico de Demanda de Medicamentos
-> *ExpoCiencias Nacional 2025 · MILSET AMLAT* 🏆
+### `[QUEST B]`  💊 SIPRODEM — Pronóstico de Demanda de Medicamentos
 
 ```
-DIFICULTAD : ★★★★★
-STACK      : Python · scikit-learn · Prophet · Random Forest · ETL
-ESTADO     : ██████████  COMPLETADO  —  RECOMPENSA: MEDALLA NACIONAL
+  ┌──────────────────────────────────────────────────┐
+  │  TIPO   : Machine Learning · Salud Pública       │
+  │  NIVEL  : ★★★★★                                 │
+  │  STACK  : Python · Prophet · Random Forest · ETL │
+  │  REWARD : 🏆 MEDALLA NACIONAL · MILSET AMLAT     │
+  │  ESTADO : ████████████████████ 100% ✔            │
+  └──────────────────────────────────────────────────┘
 ```
 
-Plataforma de ML para **predecir el desabasto de medicamentos en hospitales públicos** con 4 semanas de anticipación.
-
-- Prophet `R²=0.94`  +  Random Forest `R²=0.99`
-- Dashboard interactivo con alertas automáticas de desabasto en tiempo real
-- ETL completo sobre datos gubernamentales históricos (2020–2024)
-- Orientado a: IMSS · IMSS-BIENESTAR · INER
+- Prophet `R²=0.94` + Random Forest `R²=0.99`
+- Dashboard con alertas automáticas de desabasto en tiempo real
+- ETL completo sobre datos gubernamentales históricos 2020–2024
+- Orientado a IMSS · IMSS-BIENESTAR · INER
 - ODS: Salud `[3]` · Innovación `[9]` · Consumo Responsable `[12]`
 
 ---
 
-### `[QUEST C]` 💼 Sistema de Comisiones — Industrial Las Norteñas
-> *Proyecto de Estadía · 2024*
+### `[QUEST C]`  💼 Sistema de Comisiones — Industrial Las Norteñas
 
 ```
-DIFICULTAD : ★★★☆☆
-STACK      : PHP · Laravel · MySQL
-ESTADO     : ██████████  COMPLETADO
+  ┌──────────────────────────────────────────────────┐
+  │  TIPO   : Sistema Transaccional Web              │
+  │  NIVEL  : ★★★☆☆                                 │
+  │  STACK  : PHP · Laravel · MySQL                 │
+  │  ESTADO : ████████████████████ 100% ✔            │
+  └──────────────────────────────────────────────────┘
 ```
-
-Sistema transaccional para **cálculo automático de comisiones y pagos semanales** a fuerza de ventas.
 
 - Eliminó retrasos de una semana en el proceso de comisiones
 - Flujos de aprobación por supervisores y reportes personalizados
 
 ---
 
-### `[QUEST D]` 🛡️ Woman Secure — Ecommerce
-> *Proyecto Escolar · Líder de Equipo · 2023*
+### `[QUEST D]`  🛡️ Woman Secure — Ecommerce
 
 ```
-DIFICULTAD : ★★★☆☆
-STACK      : PHP · PayPal API · JWT
-ESTADO     : ██████████  COMPLETADO
+  ┌──────────────────────────────────────────────────┐
+  │  TIPO   : Ecommerce + Pasarelas de Pago Reales   │
+  │  NIVEL  : ★★★☆☆                                 │
+  │  STACK  : PHP · PayPal API · JWT                │
+  │  ESTADO : ████████████████████ 100% ✔            │
+  └──────────────────────────────────────────────────┘
 ```
-
-Backend de ecommerce con integración de **pasarelas de pago reales**.
 
 - Integración **PayPal** y tarjeta crédito/débito
-- Autenticación **JWT**, recuperación de contraseña y notificaciones automáticas por email
+- Autenticación **JWT**, recuperación de contraseña y notificaciones automáticas
 
 ---
 
-## `[ EXPERIENCE.TABLE ]`
+## `[ ★ EXPERIENCE TABLE ★ ]`
 
 ```
-╔═══════════════════════════════════════╦══════════════════════════════╦═══════════════════╗
-║  EMPRESA                              ║  ROL                         ║  PERÍODO          ║
-╠═══════════════════════════════════════╬══════════════════════════════╬═══════════════════╣
-║  CROV — Sistema PRASE                 ║  Desarrollador Full Stack    ║  May – Ago 2025   ║
-╠═══════════════════════════════════════╬══════════════════════════════╬═══════════════════╣
-║  Instituto Estatal de Ed. Normal      ║  Desarrollador Backend       ║  Oct 2024–Mar2025 ║
-╠═══════════════════════════════════════╬══════════════════════════════╬═══════════════════╣
-║  Industrial Las Norteñas S.A. de C.V. ║  Full Stack (Estadía)        ║  Abr – Ago 2024   ║
-╠═══════════════════════════════════════╬══════════════════════════════╬═══════════════════╣
-║  Woman Secure                         ║  Backend & Líder de Equipo   ║  Ene – Abr 2023   ║
-╚═══════════════════════════════════════╩══════════════════════════════╩═══════════════════╝
+╔══════════════════════════════════════╦══════════════════════════╦═══════════════════╗
+║  EMPRESA                             ║  ROL                     ║  PERÍODO          ║
+╠══════════════════════════════════════╬══════════════════════════╬═══════════════════╣
+║  CROV — Sistema PRASE                ║  Full Stack Developer    ║  May – Ago 2025   ║
+╠══════════════════════════════════════╬══════════════════════════╬═══════════════════╣
+║  Instituto Estatal de Ed. Normal     ║  Backend Developer      ║  Oct 2024–Mar2025 ║
+╠══════════════════════════════════════╬══════════════════════════╬═══════════════════╣
+║  Industrial Las Norteñas S.A. de C.V.║  Full Stack (Estadía)   ║  Abr – Ago 2024   ║
+╠══════════════════════════════════════╬══════════════════════════╬═══════════════════╣
+║  Woman Secure                        ║  Backend & Team Lead    ║  Ene – Abr 2023   ║
+╚══════════════════════════════════════╩══════════════════════════╩═══════════════════╝
 ```
 
 ---
 
-## `[ STATS.PANEL ]`
+## `[ ★ STATS PANEL ★ ]`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=CHIMIgb&show_icons=true&theme=gruvbox&hide_border=true&locale=es" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=CHIMIgb&show_icons=true&theme=dark&hide_border=false&border_color=FFD700&title_color=FFD700&icon_color=FF6B6B&text_color=FFFFFF&bg_color=0D1117&locale=es" height="165" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHIMIgb&layout=compact&theme=gruvbox&hide_border=true&locale=es" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHIMIgb&layout=compact&theme=dark&hide_border=false&border_color=FFD700&title_color=FFD700&text_color=FFFFFF&bg_color=0D1117&locale=es" height="165" />
 
-<img src="https://streak-stats.demolab.com/?user=CHIMIgb&theme=gruvbox&hide_border=true&locale=es" />
+<img src="https://streak-stats.demolab.com/?user=CHIMIgb&theme=dark&hide_border=false&ring=FFD700&fire=FF6B6B&currStreakLabel=FFD700&sideLabels=FFFFFF&background=0D1117&stroke=FFD700&dates=888888&locale=es" />
 
 </div>
 
 ---
 
-## `[ EDUCATION.SAVE ]`
+## `[ ★ EDUCATION SAVE FILE ★ ]`
 
 ```
-┌──────────────────────────────────────────────────────────────────┐
-│  SAVE FILE #1                                                    │
-│  Universidad Tecnológica de la Costa · Santiago Ixcuintla, Nay  │
-│                                                                  │
-│  TSU — Tecnologías de la Información                             │
-│  Desarrollo de Software Multiplataforma                          │
-│  ESTADO: ██████████  TITULADO  ✔                                 │
-│                                                                  │
-│  Ingeniería en Desarrollo y Gestión de Software                  │
-│  ESTADO: ████████░░  EN CURSO  (desde Agosto 2024)              │
-└──────────────────────────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════════════════╗
+║  💾  SAVE SLOT #01                                              ║
+╠══════════════════════════════════════════════════════════════════╣
+║  INSTITUCIÓN : Universidad Tecnológica de la Costa              ║
+║  UBICACIÓN   : Santiago Ixcuintla, Nayarit                      ║
+║                                                                  ║
+║  LOGRO #1 : TSU — Desarrollo de Software Multiplataforma        ║
+║             ████████████████████  TITULADO  ✔                   ║
+║                                                                  ║
+║  LOGRO #2 : Ingeniería en Desarrollo y Gestión de Software      ║
+║             ████████████░░░░░░░░  EN CURSO  (desde Ago 2024)    ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
 ---
@@ -247,14 +279,19 @@ Backend de ecommerce con integración de **pasarelas de pago reales**.
 <div align="center">
 
 ```
-[ PRESS START TO COLLABORATE ]
-
-▄█▀ ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ ▀█▄
- ██  "Me gusta el desafío que presentan los problemas,           ██
- ██        sean fáciles o complejos."                            ██
-▀█▄ ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄ ▄█▀
+  ╔════════════════════════════════════════════════════════╗
+  ║                                                        ║
+  ║  "Me gusta el desafío que presentan los problemas,    ║
+  ║       sean fáciles o complejos."                      ║
+  ║                                                        ║
+  ║  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  ║
+  ║  ░                                                 ░  ║
+  ║  ░         ►  ►  PRESS START  ◄  ◄               ░  ║
+  ║  ░                                                 ░  ║
+  ║  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  ║
+  ╚════════════════════════════════════════════════════════╝
 ```
 
-![Profile views](https://komarev.com/ghpvc/?username=CHIMIgb&color=555555&style=flat-square&label=VISITAS)
+![Profile views](https://komarev.com/ghpvc/?username=CHIMIgb&color=FFD700&style=for-the-badge&label=VISITAS+AL+PERFIL)
 
 </div>
