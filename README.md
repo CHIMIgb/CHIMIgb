@@ -26,7 +26,7 @@
 <br/>
 
 <!-- SUBTÍTULO: Backend -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=1&pause=999999&color=8B949E&center=false&vCenter=true&repeat=false&width=300&lines=%2F%2F+Frontend" alt="Backend" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=1&pause=999999&color=8B949E&center=false&vCenter=true&repeat=false&width=300&lines=%2F%2F+Backend" alt="Backend" />
 
 <div>
 <a href="https://www.php.net/docs.php"><img src="https://skillicons.dev/icons?i=php&theme=dark" /></a>
