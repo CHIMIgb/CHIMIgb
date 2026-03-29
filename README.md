@@ -7,9 +7,21 @@
 
 <br/>
 
-<!-- STATS CARD -->
+<!-- STATS CARDS -->
 <div align="center">
-<img src="https://pixel-profile.vercel.app/api/github-stats?username=CHIMIgb&screen_effect=true&theme=blue_chill" width="80%" alt="Pixel Stats" />
+
+<img src="https://pixel-profile.vercel.app/api/github-stats?username=CHIMIgb&screen_effect=true&theme=blue_chill" width="55%" alt="Pixel Stats" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=CHIMIgb&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_border=true&theme=github_dark&title_color=e6edf3&icon_color=8b949e&text_color=8b949e&bg_color=0d1117&locale=es&rank_icon=github&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHIMIgb&layout=compact&hide_border=true&theme=github_dark&title_color=e6edf3&text_color=8b949e&bg_color=0d1117&locale=es&langs_count=8" width="44%" alt="Top Languages" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=CHIMIgb&theme=github-dark-blue&hide_border=true&background=0d1117&ring=6e7681&fire=e6edf3&currStreakLabel=8b949e&sideLabels=8b949e&dates=6e7681&stroke=21262d&locale=es" width="55%" alt="Streak Stats" />
+
 </div>
 
 <br/>
