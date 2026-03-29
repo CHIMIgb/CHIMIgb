@@ -12,10 +12,6 @@
 
 <img src="https://pixel-profile.vercel.app/api/github-stats?username=CHIMIgb&screen_effect=true&theme=blue_chill" width="55%" alt="Pixel Stats" />
 
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=CHIMIgb&theme=github-dark-blue&hide_border=true&background=0d1117&ring=6e7681&fire=e6edf3&currStreakLabel=8b949e&sideLabels=8b949e&dates=6e7681&stroke=21262d&locale=es" width="55%" alt="Streak Stats" />
-
 </div>
 
 <br/>
