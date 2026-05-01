@@ -21,7 +21,7 @@
 
 <div>
 <a href="https://www.php.net/docs.php"><img src="https://skillicons.dev/icons?i=php&theme=dark" /></a>
-<a href="https://laravel.com/docs"><img src="https://skillicons.dev/icons?i=laravel&theme=dark" /></a>
+<a href="https://docs.flightphp.com/es/v3/"><img src="https://img.shields.io/badge/Flight_PHP-777BB4?style=flat-square&logo=php&logoColor=white&labelColor=4F5B93" height="48" /></a>
 <a href="https://nodejs.org/en/docs"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" /></a>
 <a href="https://nestjs.com/"><img src="https://skillicons.dev/icons?i=nestjs&theme=dark" /></a>
 <a href="https://expressjs.com/en/5x/api.html"><img src="https://skillicons.dev/icons?i=express&theme=dark" /></a>
