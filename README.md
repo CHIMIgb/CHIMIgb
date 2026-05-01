@@ -34,6 +34,7 @@
 <a href="https://nodejs.org/en/docs"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" /></a>
 <a href="https://nestjs.com/"><img src="https://skillicons.dev/icons?i=nestjs&theme=dark" /></a>
 <a href="https://expressjs.com/en/5x/api.html"><img src="https://skillicons.dev/icons?i=express&theme=dark" /></a>
+<a href="https://www.djangoproject.com/"><img src="https://skillicons.dev/icons?i=django&theme=dark" /></a>
 </div>
 
 <br/>
