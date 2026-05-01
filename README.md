@@ -7,15 +7,6 @@
 
 <br/>
 
-<!-- STATS CARDS -->
-<div align="center">
-
-<img src="https://pixel-profile.vercel.app/api/github-stats?username=CHIMIgb&screen_effect=true&theme=blue_chill" width="55%" alt="Pixel Stats" />
-
-</div>
-
-<br/>
-
 ---
 
 <!-- TÍTULO: Stack tecnológico -->
