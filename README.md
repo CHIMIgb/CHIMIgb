@@ -197,4 +197,19 @@ Backend de ecommerce con integracion de pasarelas de pago reales y autenticacion
 
 <br/>
 
+<!-- TÍTULO: Contribuciones -->
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=1&pause=999999&color=E6EDF3&center=true&vCenter=true&repeat=false&width=400&lines=Contribuciones" alt="Contribuciones" />
+</div>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CHIMIgb/CHIMIgb/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CHIMIgb/CHIMIgb/output/snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/CHIMIgb/CHIMIgb/output/snake.svg" />
+</picture>
+
+<br/>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=80&section=footer" />
