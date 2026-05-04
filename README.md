@@ -1,8 +1,8 @@
 <!-- BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=200&section=header&text=Adrián%20Gallardo%20Buenrostro&fontSize=36&fontColor=e6edf3&fontAlignY=45&desc=Full%20Stack%20Developer%20·%20Backend%20Specialist%20·%20Nayarit%2C%20MX&descSize=14&descAlignY=62&descColor=8b949e&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=200&section=header&text=CHIMI&fontSize=36&fontColor=e6edf3&fontAlignY=45&desc=Full%20Stack%20Developer%20·%20Backend%20Specialist%20·%20Nayarit%2C%20MX&descSize=14&descAlignY=62&descColor=8b949e&animation=twinkling" />
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=8B949E&center=true&vCenter=true&width=600&lines=Desarrollador+Full+Stack+Junior;Backend+Enthusiast+%7C+PHP+%C2%B7+Laravel+%C2%B7+Node.js;Building+robust+%26+scalable+systems;Open+to+remote+opportunities" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=8B949E&center=true&vCenter=true&width=600&lines=Desarrollador+Full+Stack+Junior;Backend+Enthusiast+%7C+PHP+%C2%B7+NestJS+%C2%B7+Node.js;Building+robust+%26+scalable+systems;Open+to+remote+opportunities" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -101,6 +101,38 @@
 <tr>
 <td width="50%" valign="top">
 
+**SERS — Sistema de Entrega-Recepción**
+
+*Backend · Gobierno · SEPEN Nayarit*
+
+Sistema institucional con RBAC de 8 roles jerárquicos, 22 permisos granulares y trazabilidad de auditoría inmutable. Incluye cadena de custodia criptográfica SHA-256 tipo Merkle Tree para el inventario documental.
+
+`Django` `DRF` `PostgreSQL` `Angular` `JWT` `Celery` `Redis`
+
+- Control de acceso por roles con menu dinámico por perfil
+- Auditoría inmutable con triggers PostgreSQL (LGPDPPSO)
+- Verificador forense de 3 fases para detección de cambios en archivos
+
+</td>
+<td width="50%" valign="top">
+
+**PRASE — Sistema de Pólizas de Seguros**
+
+*Full Stack · Producción · CROV*
+
+Corrección de bugs críticos y desarrollo de nuevos módulos en una plataforma de gestión de pólizas con usuarios reales en producción.
+
+`NestJS` `Next.js` `React` `PostgreSQL`
+
+- Resolución de errores críticos analizando logs en producción
+- Integración de nuevos módulos y formularios consumiendo APIs REST
+- Gestión de ambientes dev/prod en sistema de misión crítica
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 **Estacion Meteorologica Inteligente**
 
 *IoT · Plataforma Web en Tiempo Real*
@@ -140,7 +172,7 @@ Plataforma de ML para predecir el desabasto de medicamentos en hospitales public
 
 Sistema transaccional para el calculo automatico de comisiones y pagos semanales a la fuerza de ventas.
 
-`PHP` `Laravel` `MySQL`
+`PHP` `MySQL`
 
 - Elimino retrasos de una semana en el proceso
 - Flujos de aprobacion y reportes por vendedor
@@ -162,24 +194,6 @@ Backend de ecommerce con integracion de pasarelas de pago reales y autenticacion
 </td>
 </tr>
 </table>
-
-<br/>
-
----
-
-<!-- TÍTULO: Formación -->
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=1&pause=999999&color=E6EDF3&center=true&vCenter=true&repeat=false&width=300&lines=Formacion" alt="Formación" />
-</div>
-
-<br/>
-
-**Universidad Tecnologica de la Costa** &nbsp;·&nbsp; Santiago Ixcuintla, Nayarit
-
-| Programa | Estado |
-|---|---|
-| TSU — Tecnologias de la Informacion · Desarrollo de Software Multiplataforma | Titulado |
-| Ingenieria en Desarrollo y Gestion de Software | En curso · desde Agosto 2024 |
 
 <br/>
 
