@@ -205,7 +205,6 @@ Backend de ecommerce con integracion de pasarelas de pago reales y autenticacion
 <br/>
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=CHIMIgb&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=CHIMIgb&theme=dark&hide_border=true&background=0d1117" alt="GitHub Streak" />
 </div>
 
