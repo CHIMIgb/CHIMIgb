@@ -2,7 +2,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=200&section=header&text=CHIMI&fontSize=36&fontColor=e6edf3&fontAlignY=45&desc=Full%20Stack%20Developer%20·%20Backend%20Specialist%20·%20Nayarit%2C%20MX&descSize=14&descAlignY=62&descColor=8b949e&animation=twinkling" />
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=8B949E&center=true&vCenter=true&width=600&lines=Desarrollador+Full+Stack+Junior;Backend+Enthusiast+%7C+PHP+%C2%B7+NestJS+%C2%B7+Node.js;Building+robust+%26+scalable+systems;Open+to+remote+opportunities" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=8B949E&center=true&vCenter=true&width=600&lines=Desarrollador+Full+Stack+Junior;Backend+Enthusiast+%7C+PHP+%C2%B7+Django+%C2%B7+Node.js;Building+robust+%26+scalable+systems;Open+to+remote+opportunities" alt="Typing SVG" />
 </div>
 
 <br/>
